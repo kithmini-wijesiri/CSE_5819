@@ -1,0 +1,2 @@
+This project is an introduction to the basic tools and techniques of machine learning, including models for both supervised and unsupervised learning, related optimization techniques, and methods for model validation. 
+Projects include sample work from linear and logistic regression, SVM classification and regression, kernels, regularization, clustering, and on-line algorithms for regret minimization.
